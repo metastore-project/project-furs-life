@@ -6,6 +6,8 @@
 
 - Имя `name`
 - Гендер `gender`
+  - Мужчина `male`
+  - Женщина `female`
 - Телосложение `bodyType`
   - Мезоморф `mesomorphic`
   - Эктоморф `ectomorphic`
@@ -84,11 +86,16 @@
   - Писатель `writer`
   - Стример `streamer`
   - Художник `painter`
+- Занятие `occupation`
 - Фуркод `furryCode`
-- Любимые книги `books`
-- Любимые игры `games`
-- Любимые фильмы `movies`
-- Любимая музыка `music`
+- Любимые книги `favoriteBooks`
+- Любимые игры `favoriteGames`
+- Любимые фильмы `favoriteMovies`
+- Любимая музыка `favoriteMusic`
+- Конфигурация компьютера `compConfiguration`
+- Bitcoin `walletBitcoin`
+- WebMoney `walletWebMoney`
+- Yandex.Money `walletYandexMoney`
 
 ## Contact Details
 
