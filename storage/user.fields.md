@@ -77,9 +77,9 @@
 - Отношения `relationships`
   - Одинок(а) `relationship_0`
   - Влюблён `relationship_1`
-  - Свободные отношения `relationship_2`
+  - В серьезных отношениях `relationship_2`
   - В официальном браке `relationship_3`
-  - В серьезных отношениях `relationship_4`
+  - Свободные отношения `relationship_4`
 - Профессия `profession`
   - Ведущий `presenter`
   - Музыкант `musician`
