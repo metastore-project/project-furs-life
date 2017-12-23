@@ -92,8 +92,10 @@
 - Любимые игры `favoriteGames`
 - Любимые фильмы `favoriteMovies`
 - Любимая музыка `favoriteMusic`
-- Конфигурация компьютера `compConfiguration`
+- Конфигурация компьютера `configPC`
 - Bitcoin `walletBitcoin`
+- PayPal `walletPayPal`
+- Skrill `walletSkrill`
 - WebMoney `walletWebMoney`
 - Yandex.Money `walletYandexMoney`
 
