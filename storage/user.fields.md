@@ -112,6 +112,7 @@
 - Yandex.Money `walletYandexMoney`
 
 ## Contact Details
+
 - GitHub `github`
 - Google+ `googlePlus`
 - Steam `steam`
