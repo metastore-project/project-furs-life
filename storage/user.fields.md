@@ -54,6 +54,7 @@
 - Любимые книги `favoriteBooks`
 - Любимые игры `favoriteGames`
 - Любимые цитаты `favoriteQuotes`
+- Любимые рецепты `favoriteRecipes`
 - Полит. предпочтения `politicalViews`
   - Индифферентные `id_000`
   - Коммунистические `id_001`
