@@ -5,7 +5,7 @@
 - Автор `author`
 - Лицензия `license`
 - Источник `source`
-- Рейтинг `rating`
+- Рейтинг `ageClassification`
   - 0+ `id_0000`
   - 6+ `id_0001`
   - 12+ `id_0002`
