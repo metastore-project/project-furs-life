@@ -108,6 +108,7 @@
   - Нейтральное `id_0003`
   - Положительное `id_0004`
 - Вдохновляют `inspiredBy`
+- Домашние животные `pets`
 - Конфигурация компьютера `configPC`
 - Bitcoin `walletBitcoin`
 - PayPal `walletPayPal`
