@@ -124,12 +124,27 @@
 
 ## Contact Details
 
+- Ask.fm `askFm`
+- BBM `bbm`
 - GitHub `github`
 - Google+ `googlePlus`
+- Instagram `instagram`
+- KakaoTalk `kakaotalk`
+- Kik `kik`
+- LINE `line`
+- LinkedIn `linkedIn`
+- OK `ok`
+- Pinterest `pinterest`
+- QQ `qq`
+- Snapchat `snapchat`
+- SoundCloud `soundcloud`
+- Spotify `spotify`
 - Steam `steam`
+- Tumblr `tumblr`
 - Twitch `twitch`
+- VK `vk`
+- WeChat `wechat`
 - YouTube `youtube`
-- ВКонтакте `vk`
 - Номер телефона `phone`
 - Номер мобильного телефона `mobilePhone`
 - Факс `fax`
